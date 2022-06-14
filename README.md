@@ -1,6 +1,6 @@
 # Hi guys 👋
 
-My name is Fabiano, I am from Brazil and I'm a mobile engineer, always looking to learn and build cool stuff. I'm graduated in Computer Science and currently working as a sênior mobile engineer at [Remessa Online](https://www.remessaonline.com.br/) and sometimes tech lead in [PlugApps](https://www.plugapps.net/).
+My name is Fabiano, I am from Brazil and I'm a mobile engineer, always looking to learn and build nice applications. I'm graduated in Computer Science and currently working as a sênior mobile engineer at [Remessa Online](https://www.remessaonline.com.br/) and sometimes tech lead in [PlugApps](https://www.plugapps.net/).
 
 I am focused on mobile applications have 5 years, in expecifical Flutter since 2018. I'm always looking to improve my knowledge on the fundamentals of computer science like algorithm, data structures, product data analytics and technical leadership.
 
